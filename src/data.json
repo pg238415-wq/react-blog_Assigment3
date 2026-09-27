@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "excerpt": "Learn the basic ideas behind React components and build your first interface.",
+    "category": "React",
+    "date": "September 20, 2026",
+    "readTime": "5 min read"
+  },
+  {
+    "id": 2,
+    "title": "Responsive Web Design Basics",
+    "excerpt": "Understand layouts, flexible grids and media queries for better websites.",
+    "category": "CSS",
+    "date": "September 17, 2026",
+    "readTime": "6 min read"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript ES6 Essentials",
+    "excerpt": "Explore modern JavaScript features such as arrow functions, map and destructuring.",
+    "category": "JavaScript",
+    "date": "September 14, 2026",
+    "readTime": "7 min read"
+  },
+  {
+    "id": 4,
+    "title": "Building Reusable Components",
+    "excerpt": "See how reusable components make frontend projects easier to maintain.",
+    "category": "React",
+    "date": "September 11, 2026",
+    "readTime": "5 min read"
+  },
+  {
+    "id": 5,
+    "title": "CSS Grid vs Flexbox",
+    "excerpt": "Learn when to use CSS Grid and Flexbox when creating modern layouts.",
+    "category": "CSS",
+    "date": "September 8, 2026",
+    "readTime": "4 min read"
+  },
+  {
+    "id": 6,
+    "title": "Useful JavaScript Array Methods",
+    "excerpt": "Practice filter, map and find to work with dynamic application data.",
+    "category": "JavaScript",
+    "date": "September 5, 2026",
+    "readTime": "6 min read"
+  }
+]
